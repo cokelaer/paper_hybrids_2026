@@ -1,0 +1,6 @@
+feature counts on all samples mapped onto infantum stored in inf/
+
+feature counts of all samples mapped on the hybrid genome stored in ./tarinf
+
+we do not look at the tarentolae genome only. same results as infanutm only. besides, tarentolae genome is less complete
+with 179 contigs.
