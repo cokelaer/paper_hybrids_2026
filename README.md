@@ -23,10 +23,10 @@ The core analysis for this study is structured across five distinct Jupyter Note
 
 * general.ipynb
   * Summary: [A brief description of the general analysis or setup performed in this notebook should be added here.]
-  * Launch: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cokelaer/paper_hybrids_2026/HEAD?urlpath=%2Fdoc%2Ftree%2Fregeneral.ipynb)
+  * Launch: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cokelaer/paper_hybrids_2026/HEAD?urlpath=%2Fdoc%2Ftree%2Fegeneral.ipynb)
 * somy.ipynb
   * Summary: [A brief description of the somy analysis performed in this notebook should be added here.]
-  * Launch: 
+  * Launch: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cokelaer/paper_hybrids_2026/HEAD?urlpath=%2Fdoc%2Ftree%2Fesomy.ipynb)
 * RNA.ipynb
   * Summary: [A brief description of the RNA analysis performed in this notebook should be added here.]
   * Launch: 
