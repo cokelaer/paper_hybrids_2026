@@ -9,6 +9,8 @@ The data are on https://zenodo.org/records/18269837
 
 This repository, paper_hybrids_2026, contains the complete set of supporting materials and analysis code for the scientific paper available on bioRxiv (see citation). The resources provided here are intended to ensure the full reproducibility of the research findings presented in the publication.
 
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/ccd465f5-fec4-4a35-b910-540a9dd0d898" />
+
 ## Prerequisites
 
 To run the analysis notebooks, several large datasets are required. These datasets are not included directly in this repository due to their size.
