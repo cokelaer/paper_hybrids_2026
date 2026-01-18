@@ -1,13 +1,9 @@
 # 📄 paper_hybrids_2026
 
 
-This is made of 5 notebooks. Some large data sets must be downlaoded first Use the download.sh script first.
-The data are on https://zenodo.org/records/18269837
-
-
 ## Introduction
 
-This repository, paper_hybrids_2026, contains the complete set of supporting materials and analysis code for the scientific paper available on bioRxiv (see citation). The resources provided here are intended to ensure the full reproducibility of the research findings presented in the publication.
+This repository, paper_hybrids_2026, contains the complete set of supporting materials and analysis code for the scientific paper available on bioRxiv (see citation at the end). The resources provided here are intended to ensure the full reproducibility of the research findings presented in the publication. It is made of 5 notebooks summarisd as follows
 
 <img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/ccd465f5-fec4-4a35-b910-540a9dd0d898" />
 
@@ -41,7 +37,7 @@ The core analysis for this study is structured across five distinct Jupyter Note
 
 The following section provides information regarding citation and proper attribution for this work.
 
-About & Citation
+## About & Citation
 
-This repository provides the essential data, code, and computational notebooks required to reproduce the analyses and results presented in the associated scientific manuscript. For citation and further details on the scientific context of this work, please refer to the primary paper located at https://www.biorxiv.org/content/10.1101/2025.03.25.645178v1.
+For citation and further details on the scientific context of this work, please refer to the primary paper located at https://www.biorxiv.org/content/10.1101/2025.03.25.645178v1.
 
