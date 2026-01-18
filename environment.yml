@@ -9,6 +9,7 @@ dependencies:
   - pandas
   - pip
   - axel
+  - orthofinder
   - pip:
       - sequana
       - wget
