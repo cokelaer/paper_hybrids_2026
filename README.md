@@ -15,24 +15,30 @@ You must first download these datasets by executing the download.sh script locat
 
 Once the data has been successfully downloaded, you can proceed to the core analytical components of this project.
 
+The BAM files were generated as described in the paper. In brief, we used this data sets:
+- For the DNA data: https://www.ebi.ac.uk/ena/browser/text-search?query=E-MTAB-14532
+- For the RNA data:
+
+To compute the somies, we use BAM files from the DNA data. The BAM files were generated with the sequana_mapper pipeline (bwa)
+
 ##  🚀 Analysis Notebooks
 
 The core analysis for this study is structured across five distinct Jupyter Notebooks. Each notebook is self-contained and addresses a specific component of the research, from data processing to final figure generation. The notebooks are designed to be run in sequence, but can also be explored individually.
 
 * general.ipynb
-  * Summary: [A brief description of the general analysis or setup performed in this notebook should be added here.]
+  * Summary: [General genomic computation]
   * Launch: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cokelaer/paper_hybrids_2026/HEAD?urlpath=%2Fdoc%2Ftree%2Fgeneral.ipynb)
 * somy.ipynb
-  * Summary: [A brief description of the somy analysis performed in this notebook should be added here.]
+  * Summary: [Compute somies of the different genome. Used in other notebooks.]
   * Launch: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cokelaer/paper_hybrids_2026/HEAD?urlpath=%2Fdoc%2Ftree%2Fsomy.ipynb)
 * RNA.ipynb
-  * Summary: [A brief description of the RNA analysis performed in this notebook should be added here.]
+  * Summary: [Main analysis. RNA may be misleading since it also uses DNA data.]
   * Launch: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cokelaer/paper_hybrids_2026/HEAD?urlpath=%2Fdoc%2Ftree%2FRNA.ipynb)
 * orthogroups.ipynb
-  * Summary: [A brief description of the orthogroups analysis performed in this notebook should be added here.]
+  * Summary: [Orthogroups computation. Used in RNA notebook]
   * Launch: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cokelaer/paper_hybrids_2026/HEAD?urlpath=%2Fdoc%2Ftree%2Forthogroups.ipynb)
 * variant_DNA_RNA.ipynb
-  * Summary: [A brief description of the DNA/RNA variant analysis performed in this notebook should be added here.]
+  * Summary: [Some extra computation not included in the paper but kept for book keeping]
   * Launch: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cokelaer/paper_hybrids_2026/HEAD?urlpath=%2Fdoc%2Ftree%2Fvariant_DNA_RNA.ipynb)
     
 The following section provides information regarding citation and proper attribution for this work.
